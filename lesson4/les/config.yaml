@@ -1,0 +1,10 @@
+folder_in: /home/user/tst
+folder_out: /home/user/out
+folder_ext: /home/user/folder1
+folder_ext2: /home/user/folder2
+count: 5
+bs: 1M
+
+host: "127.0.0.1"
+user: "user2"
+password: "11"
